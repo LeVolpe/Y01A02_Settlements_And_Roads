@@ -1,0 +1,12 @@
+Aberystwyth,TOWN,20000
+Penparcau,VILLAGE,3100
+Llanbadarn,VILLAGE,3000
+Bow Street,VILLAGE,1500
+Rhydypennau,HAMLET,100
+Tal-y-bont,VILLAGE,700
+Borth,VILLAGE,1500
+Milford Haven,TOWN,13907
+Haverfordwest,TOWN,13367
+Johnston,TOWN,1941
+Narberth,TOWN,4290
+Swansea,CITY,241300

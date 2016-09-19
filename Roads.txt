@@ -1,0 +1,12 @@
+A487,A,Aberystwyth,Penparcau,0.9
+A487,A,Penparcau,Aberystwyth,0.9
+Hoel-Y-Bont,U,Penparcau,Llanbadarn,0.8
+Hoel-Y-Bont,U,Llanbadarn,Penparcau,0.8
+A44,A,Aberystwyth,Llanbadarn,1.2
+A44,A,Llanbadarn,Aberystwyth,1.2
+A487,A,Bow Street,Rhydypennau,0.9
+A487,A,Rhydypennau,Bow Street,0.9
+A4076,A,Milford Haven,Johnston,9.0
+A4076,A,Johnston,Milford Haven,9.0
+A4076,A,Johnston,Haverfordwest,3.6
+A4076,A,Haverfordwest,Johnston,3.6
