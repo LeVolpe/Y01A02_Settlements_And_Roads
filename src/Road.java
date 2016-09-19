@@ -13,6 +13,7 @@ public class Road {
 	private Settlement sourceSettlement;
 	private Settlement destinationSettlement;
 	private double length;
+	private int speedLimit;
 
 
 	/**
